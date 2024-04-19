@@ -11,3 +11,6 @@ Temporal & Environmental Trends: 📅🌦️ While the two-year dataset limits c
 
 Visualizing Location & Conditions: 🗺️ The dashboard leverages maps to pinpoint accident locations and allows users to filter by weather conditions and road surface, providing a comprehensive view of potential risk factors.
 #PowerBI #RoadAccidents #DataAnalytics #DataViz #DashboardSuccess #RoadSafety
+
+
+Data's and Files: https://drive.google.com/drive/folders/1YEtnsa-gS3ZZw0Qcpb0SEGk-o2tB35Ln?usp=drive_link
